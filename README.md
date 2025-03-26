@@ -1,16 +1,15 @@
 # Hi there, I'm Youssif Hassan 👋
-## Frontend Engineer
+## 💻 Frontend Engineer | 🧠 Problem Solver | 🚀 Continuous Learner
 
 	
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="35"> About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
-<br><br>
-- 👨‍💻 I'm `Frontend Engineer` and a `competitive programmer`, I enjoy solving problems with code and learning new technologies. I represented my university the national programming contest for Egypt (ECPC), and at the regional contest for Arab and Africa (ACPC).
-<br>
+- 👨‍💻 Professional **Frontend Engineer** with **competitive programming** background
+- 🏆 Represented Egypt in **ECPC** & regional **ACPC** competitions
+- 🌱 **Always learning** - Excited to explore new technologies and frameworks
 
-- I’m passionate about learning new things and sharing my knowledge with others. I also have a YouTube channel where I upload videos explaining some competitive programming topics, data structures, algorithms, or just the ideas to solve problems I find interesting. I have been a volunteer competitive programming and problem-solving coach for the past four years, and I have helped many people improve their skills and achieve their goals.
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Skills
 <p align="center"> 
   &emsp; 
@@ -29,6 +28,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40">
@@ -46,6 +49,10 @@
     <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40">
   </a>
   &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
+  </a>
+  &emsp;
   <a href="https://mui.com/" target="_blank">
     <img alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40">
   </a>
@@ -61,17 +68,10 @@
   <a href="https://nextjs.org/" target="_blank">
     <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40">
   </a>
+
   &emsp;
   <a href="https://vitejs.dev/" target="_blank">
     <img alt="Vite" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://vuejs.org/" target="_blank">
-    <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40">
-  </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
   </a>
   &emsp;
   <a href="https://git-scm.com/" target="_blank">
@@ -99,3 +99,7 @@
     <img src="https://codeforces.org/s/0/images/codeforces-logo-with-telegram.png" width="auto" height="40" alt="Codeforces"/>
 </a>
 </p>
+
+
+
+💡 **Technology Philosophy**: *"Tools should solve problems, not define constraints. My competitive programming background fuels my ability to rapidly decompose complex challenges and identify optimal solutions, regardless of the tech stack. Let's build what matters."*
